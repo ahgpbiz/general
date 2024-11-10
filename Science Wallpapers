@@ -4,10 +4,6 @@
         "CpaURL": ""
     },
     {
-        "Name": "Image 1",
-        "ImageURL": "https://i.pinimg.com/originals/2f/37/fd/2f37fd6aee8ff94456b85da4efe0f1ed.jpg"
-    },
-    {
         "Name": "Image 2",
         "ImageURL": "https://i.pinimg.com/236x/91/28/f6/9128f631251ef5ce42d1a777bcf7bdce.jpg"
     },
@@ -22,10 +18,6 @@
     {
         "Name": "Image 5",
         "ImageURL": "https://i.pinimg.com/736x/6c/1a/70/6c1a7077ac956b870733a962d37c7794.jpg"
-    },
-    {
-        "Name": "Image 6",
-        "ImageURL": "https://i.pinimg.com/originals/6c/1a/70/6c1a7077ac956b870733a962d37c7794.jpg"
     },
     {
         "Name": "Image 7",
